@@ -1,0 +1,17 @@
+:root {
+  font-family: roboto, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  background-color: #edf2ff;
+
+}
+
+body {
+  max-width: 1280px;
+  min-width: 320px;
+  min-height: 100vh;
+  margin: 0 auto;
+  padding: 0;
+  display: flex;
+  place-items: center;
+}
